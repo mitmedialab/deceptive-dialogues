@@ -35,10 +35,10 @@ function App() {
 
   return (
     <div className="chat-container">
-      <div className="chat-header">
+      {/*<div className="chat-header">
         <span className="back-arrow">←</span>
         <span className="title">AI Chat</span>
-      </div>
+      </div>*/}
       <div className="image-container">
         <img src="testImage.png"></img>
         <span class="image-caption"><i>This is a test image.</i></span>
